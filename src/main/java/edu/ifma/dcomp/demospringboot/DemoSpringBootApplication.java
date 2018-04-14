@@ -8,7 +8,7 @@ public class DemoSpringBootApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("Carregando a nossa primeira aplicação com Github e TravisCI");
+		System.out.println("Carregando a nossa primeira aplicação com Github e TravisCI - versão 2");
 		SpringApplication.run(DemoSpringBootApplication.class, args);
 	}
 }
